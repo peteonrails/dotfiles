@@ -3,26 +3,26 @@ set background=light
 
 hi clear
 if exists("syntax_on")
-  syntax reset
+    syntax reset
 endif
 
 let colors_name = "pyte"
 
 if version >= 700
-  hi CursorLine guibg=#f6f6f6
-  hi CursorColumn guibg=#eaeaea
-  hi MatchParen guifg=white guibg=#80a090 gui=bold
+    hi CursorLine guibg=#f6f6f6
+    hi CursorColumn guibg=#eaeaea
+    hi MatchParen guifg=white guibg=#80a090 gui=bold
 
-  "Tabpages
-  hi TabLine guifg=black guibg=#b0b8c0 gui=italic
-  hi TabLineFill guifg=#9098a0
-  hi TabLineSel guifg=black guibg=#f0f0f0 gui=italic,bold
+    "Tabpages
+    hi TabLine guifg=black guibg=#b0b8c0 gui=italic
+    hi TabLineFill guifg=#9098a0
+    hi TabLineSel guifg=black guibg=#f0f0f0 gui=italic,bold
 
-  "P-Menu (auto-completion)
-  hi Pmenu guifg=white guibg=#808080
-  "PmenuSel
-  "PmenuSbar
-  "PmenuThumb
+    "P-Menu (auto-completion)
+    hi Pmenu guifg=white guibg=#808080
+    "PmenuSel
+    "PmenuSbar
+    "PmenuThumb
 endif
 "
 " Html-Titles
@@ -47,8 +47,7 @@ hi NonText   guifg=#c0c0c0 guibg=#e0e0e0
 hi Comment   guifg=#a0b0c0               gui=italic
 
 " Konstanten
-"hi Constant  guifg=#a07040
-hi Constant  guifg=#BE0000
+hi Constant  guifg=#a07040
 hi String    guifg=#4070a0 
 hi Number    guifg=#40a070
 hi Float     guifg=#70a040
@@ -58,13 +57,12 @@ hi Statement  guifg=#007020 gui=bold
 
 
 " HTML: arguments
-"hi Type       guifg=#e5a00d gui=italic
-hi Type  guifg=#850400 gui=bold
+hi Type       guifg=#e5a00d gui=italic
 " Python: Standard exceptions, True&False
-hi Structure  guifg=#007020 
-hi Function   guifg=#06287e 
+hi Structure  guifg=#007020 gui=italic
+hi Function   guifg=#06287e gui=italic
 
-hi Identifier guifg=#5b3674 
+hi Identifier guifg=#5b3674 gui=italic
 
 hi Repeat      guifg=#7fbf58 gui=bold
 hi Conditional guifg=#4c8f2f gui=bold
@@ -91,4 +89,4 @@ hi DiffText guifg=NONE guibg=#f0c8c8 gui=italic,bold
 hi DiffAdd guifg=NONE guibg=#c0e0d0 gui=italic,bold
 hi DiffDelete guifg=NONE guibg=#f0e0b0 gui=italic,bold
 
-hi Directory guifg=#06287e gui=bold
+

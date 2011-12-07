@@ -5,27 +5,29 @@ export HISTSIZE=5000
 export NODE_PATH=/usr/local/lib/node_modules
 
 # PATH
-export PATH=/Users/adam/bin:/usr/bin:$PATH
+export PATH=$HOME/bin:/usr/bin:$PATH
 
 
 
 # Macports
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 
 # Brew
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+# export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
 
 # MySQL
-export PATH=/usr/local/mysql/bin:$PATH
+# export PATH=/usr/local/mysql/bin:$PATH
 
 
 # PostgreSQL
-export PATH=/opt/local/lib/postgresql90/bin:$PATH
+export PGHOME="/usr/local"
+export PG_DB="/usr/local/var/postgres"
+export PATH=$PGHOME/bin:$PATH
 
-alias pgstart="sudo su postgres -c '/opt/local/lib/postgresql90/bin/pg_ctl -D /opt/local/var/db/postgresql90/defaultdb -l /opt/local/var/log/postgresql90/postgres.log start'"
-alias pgstop="sudo su postgres -c '/opt/local/lib/postgresql90/bin/pg_ctl -D /opt/local/var/db/postgresql90/defaultdb stop -m fast'"
-alias pgstatus="sudo su postgres -c '/opt/local/lib/postgresql90/bin/pg_ctl status -D /opt/local/var/db/postgresql90/defaultdb'"
+alias pgstart="$PGHOME/bin/pg_ctl -D $PG_DB -l /var/log/postgres.log start"
+alias pgstop="$PGHOME/bin/pg_ctl -D $PG_DB stop -m fast"
+alias pgstatus="$PGHOME/bin/pg_ctl status -D $PG_DB"
 
 
 # Vim
@@ -44,8 +46,8 @@ set -o vi
 #   #=> /Users/happy/something/workspace
 #
 # Results 
-export JPY=/Users/adam/bin/j2/j.py
-export PATH=/Users/adam/bin/j2:$PATH
+# export JPY=/Users/adam/bin/j2/j.py
+# export PATH=/Users/adam/bin/j2:$PATH
 
 
 # Ruby

@@ -1,0 +1,67 @@
+11/17/2011 15:17:58:490 {java.runtime.name=Java(TM) SE Runtime Environment, apple.awt.textantialiasing=true, sun.boot.library.path=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries, java.vm.version=20.4-b02-402, awt.nativeDoubleBuffering=true, gopherProxySet=false, mrj.build=11M3527, java.vm.vendor=Apple Inc., java.vendor.url=http://www.apple.com/, path.separator=:, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=US, sun.os.patch.level=unknown, java.vm.specification.name=Java Virtual Machine Specification, user.dir=/Applications/RazorSQL.app/Contents/Resources/Java, java.runtime.version=1.6.0_29-b11-402-11M3527, java.awt.graphicsenv=apple.awt.CGraphicsEnvironment, java.endorsed.dirs=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed, os.arch=x86_64, apple.awt.graphics.UseOpenGL=false, java.io.tmpdir=/var/folders/qk/72f_m01566b5jk9w0hv_2klr0000gn/T/, line.separator=
+, java.vm.specification.vendor=Sun Microsystems Inc., os.name=Mac OS X, apple.laf.useScreenMenuBar=true, sun.jnu.encoding=MacRoman, java.library.path=/Applications/RazorSQL.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java, java.specification.name=Java Platform API Specification, java.class.version=50.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=10.7.2, http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, user.home=/Users/Pete, user.timezone=America/New_York, java.awt.printerjob=apple.awt.CPrinterJob, file.encoding=MacRoman, java.specification.version=1.6, java.class.path=/Applications/RazorSQL.app/Contents/Resources/Java/razorsql.jar:/Applications/RazorSQL.app/Contents/Resources/Java/data/registry.jar:/Applications/RazorSQL.app/Contents/Resources/Java/jgoodies/looks.jar:/Applications/RazorSQL.app/Contents/Resources/Java/poi/poi.jar:/Applications/RazorSQL.app/Contents/Resources/Java/jxl/jxl.jar:/Applications/RazorSQL.app/Contents/Resources/Java/tidy/tidy.jar:/Applications/RazorSQL.app/Contents/Resources/Java/ftp/ftp.jar:/Applications/RazorSQL.app/Contents/Resources/Java/ftp/jsch.jar, user.name=Pete, apple.awt.graphics.UseQuartz=false, java.vm.specification.version=1.0, java.home=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home, sun.arch.data.model=64, user.language=en, java.specification.vendor=Sun Microsystems Inc., awt.toolkit=apple.awt.CToolkit, java.vm.info=mixed mode, java.version=1.6.0_29, java.ext.dirs=/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext, sun.boot.class.path=/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources/LauncherSupport.jar, apple.awt.antialiasing=true, java.vendor=Apple Inc., file.separator=/, java.vendor.url.bug=http://bugreport.apple.com/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, mrj.version=1070.1.6.0_29-402, socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, from_application=true, ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, sun.awt.exception.handler=apple.awt.CToolkit$EventQueueExceptionHandler, sun.cpu.isalist=}
+11/17/2011 15:17:58:491 Version: RazorSQL v. 5.5.5
+11/17/2011 15:17:58:553 graphics bounds: java.awt.Rectangle[x=0,y=0,width=1920,height=1200]
+11/17/2011 15:17:58:554 maxBounds: java.awt.Rectangle[x=0,y=22,width=1920,height=1087]
+11/17/2011 15:17:58:555 maxWidth: 1920
+11/17/2011 15:17:58:555 maxHeight: 1087
+11/17/2011 15:17:58:555 maximizedBounds: null
+11/17/2011 15:17:58:555 lastWidth: 1086
+11/17/2011 15:17:58:555 lastHeight: 857
+11/17/2011 15:17:58:555 lastX: 240
+11/17/2011 15:17:58:555 lastY: 127
+11/17/2011 15:17:58:565 lastSize after check =  java.awt.Dimension[width=1086,height=857]
+11/17/2011 15:17:58:565 new prefWidth: 1086
+11/17/2011 15:17:58:565 new prefHeight: 857
+11/17/2011 15:17:58:566 new location: java.awt.Point[x=240,y=127]
+11/17/2011 15:17:58:566 defaultWidth: 1770
+11/17/2011 15:17:58:566 defaultHeight: 1012
+11/17/2011 15:17:58:566 preferred sizes > 0, setting size to 1086 , 857
+11/17/2011 15:17:58:566 frame size = java.awt.Dimension[width=1086,height=857]
+11/17/2011 15:17:58:567 frame maximum size = java.awt.Dimension[width=1920,height=1087]
+11/17/2011 15:17:58:567 set location to: java.awt.Point[x=240,y=127]
+11/17/2011 15:18:00:581 Loading Toolbar Actions . . .
+11/17/2011 15:18:00:581 Loading drop downs . . .
+11/17/2011 15:18:00:597 Done loading dropdowns
+11/17/2011 15:18:00:598 Loading Toolbar Buttons . . .
+11/17/2011 15:18:00:703 Done loading buttons
+11/17/2011 15:18:00:705 Done loading output button
+11/17/2011 15:18:00:875 init calls
+11/17/2011 15:18:00:875 got clipboard
+11/17/2011 15:18:00:891 got clipboard text
+11/17/2011 15:18:00:892 selecting
+11/17/2011 15:18:00:892 done selecting
+11/17/2011 15:18:00:957 clipboard init
+11/17/2011 15:18:00:959 Set up KeepAlive
+11/17/2011 15:18:00:960 Starting Keep Alive thread
+11/17/2011 15:18:01:500 dataTemplateDir: URL: file:/Applications/RazorSQL.app/Contents/Resources/Java/data/templates/
+11/17/2011 15:18:01:625 NULL ACTION RETURNED IN ACTION MANAGER: Replace_In_Files
+11/17/2011 15:18:01:813 getRegistrationURL: isWin: false
+11/17/2011 15:18:01:849 adding plugin jar: PluginExample.jar
+11/17/2011 15:18:01:849 jar path = file:/Applications/RazorSQL.app/Contents/Resources/Java/plugins/PluginExample.jar
+11/17/2011 15:18:01:849 adding plugin jar: PluginExample2.jar
+11/17/2011 15:18:01:850 jar path = file:/Applications/RazorSQL.app/Contents/Resources/Java/plugins/PluginExample2.jar
+11/17/2011 15:18:01:850 plugin jars found, looking for plugin lib jars
+11/17/2011 15:18:01:850 adding file:/Applications/RazorSQL.app/Contents/Resources/Java/plugins/PluginExample.jar to loader
+11/17/2011 15:18:01:872 adding file:/Applications/RazorSQL.app/Contents/Resources/Java/plugins/PluginExample2.jar to loader
+11/17/2011 15:18:01:875 PLUGIN FILE NAME:PluginExample.jar
+11/17/2011 15:18:01:876 Calling load() on razorsql.plugins.PluginExample
+11/17/2011 15:18:01:879 in load() in PluginExample 
+11/17/2011 15:18:01:889 PLUGIN FILE NAME:PluginExample2.jar
+11/17/2011 15:18:01:889 Calling load() on razorsql.plugins.PluginExample2
+11/17/2011 15:18:01:890 in load() in PluginExample2 
+11/17/2011 15:18:01:893 1.5 setting sizes
+11/17/2011 15:18:01:893 java version: 1.6.0_29
+11/17/2011 15:18:01:894 validVersion: true
+11/17/2011 15:18:02:785 Do mainframe
+11/17/2011 15:18:03:054 License has been previously accepted
+11/17/2011 15:18:03:055 testWrite parent = /var/folders/qk/72f_m01566b5jk9w0hv_2klr0000gn/T
+11/17/2011 15:18:03:056 temp directory = /var/folders/qk/72f_m01566b5jk9w0hv_2klr0000gn/T
+11/17/2011 15:18:03:217 display screen count =  2
+11/17/2011 15:18:07:736 display screen count =  2
+11/17/2011 15:18:11:817 Closing All Resources
+11/17/2011 15:18:11:820 currentHeight: 857
+11/17/2011 15:18:11:820 currentWidth: 1086
+11/17/2011 15:18:11:820 currentLocation: java.awt.Point[x=240,y=127]
+11/17/2011 15:18:11:856 holders size:1
+11/17/2011 15:18:11:856 comps len: 1

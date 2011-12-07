@@ -1,0 +1,11 @@
+RazorSQL is launching . . .
+user.home: /Users/Pete
+resource directory: file:/Applications/RazorSQL.app/Contents/Resources/Java/
+scratch directory: /Users/Pete/.razorsql
+library path: /Applications/RazorSQL.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+java version: 1.6.0_29
+path0: file:/Applications/RazorSQL.app/Contents/Resources/Java/data/run.ssql
+path1: file:/Applications/RazorSQL.app/Contents/Resources/Java/razorsql.jar
+image location: file:/Applications/RazorSQL.app/Contents/Resources/Java/icons/razorsql_plain24.gif
+screen image location: file:/Applications/RazorSQL.app/Contents/Resources/Java/icons/razorsql.png
+Attempting to load . . .
